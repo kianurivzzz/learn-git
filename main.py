@@ -1,1 +1,5 @@
-print('Hello, Git!')
+import re
+
+
+def hello():
+    return 'Hello, Git!'
